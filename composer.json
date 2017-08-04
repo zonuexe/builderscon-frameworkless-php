@@ -1,0 +1,8 @@
+{
+    "require": {
+        "psy/psysh": "^0.8.11",
+        "zonuexe/simple-routing": "^0.5.3",
+        "vlucas/phpdotenv": "^2.4",
+        "filp/whoops": "^2.1"
+    }
+}
